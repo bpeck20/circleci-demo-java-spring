@@ -1,6 +1,6 @@
 # CircleCI 2.0 Java Demo Application using Gradle and Spring [![CircleCI status](https://circleci.com/gh/CircleCI-Public/circleci-demo-java-spring.svg "CircleCI status")](https://circleci.com/gh/CircleCI-Public/circleci-demo-java-spring)
 
-Editing the readme, which should trigger the build.
+Triggering another build.
 
 **Note:** This project is currently under substantial development to include additional use cases and show off more features of CircleCI.
 
