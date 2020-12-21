@@ -6,7 +6,7 @@ If you are coming here form the [Java Language Guide](https://circleci.com/docs/
 
 This message will be removed once the CircleCI documentation matches this repository again.
 
-Adding a note to force a build to occur.
+Removing note to force a build to start.
 
 ---
 
