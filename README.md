@@ -6,6 +6,8 @@ If you are coming here form the [Java Language Guide](https://circleci.com/docs/
 
 This message will be removed once the CircleCI documentation matches this repository again.
 
+Forcing a build.
+
 ---
 
 This is an example application showcasing how to run a Java app on CircleCI 2.0.
